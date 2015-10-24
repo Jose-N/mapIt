@@ -1,4 +1,4 @@
-#! python 3
+#! python3
 # mapIt.py
 # Launches a map in the bowser using an address from the command line or clipboard.
 
